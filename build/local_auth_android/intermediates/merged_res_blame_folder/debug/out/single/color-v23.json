@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Volumes/Untitled/Dipak/Flutter/demo/biometric_authentication_flutter/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/skywave-mac/.gradle/caches/transforms-2/files-2.1/062c584e7105f32bea72d749c12db8a1/appcompat-1.2.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/Untitled/Dipak/Flutter/demo/biometric_authentication_flutter/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/skywave-mac/.gradle/caches/transforms-2/files-2.1/062c584e7105f32bea72d749c12db8a1/appcompat-1.2.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Untitled/Dipak/Flutter/demo/biometric_authentication_flutter/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/skywave-mac/.gradle/caches/transforms-2/files-2.1/062c584e7105f32bea72d749c12db8a1/appcompat-1.2.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Volumes/Untitled/Dipak/Flutter/demo/biometric_authentication_flutter/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/skywave-mac/.gradle/caches/transforms-2/files-2.1/062c584e7105f32bea72d749c12db8a1/appcompat-1.2.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Volumes/Untitled/Dipak/Flutter/demo/biometric_authentication_flutter/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/skywave-mac/.gradle/caches/transforms-2/files-2.1/062c584e7105f32bea72d749c12db8a1/appcompat-1.2.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Volumes/Untitled/Dipak/Flutter/demo/biometric_authentication_flutter/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/skywave-mac/.gradle/caches/transforms-2/files-2.1/062c584e7105f32bea72d749c12db8a1/appcompat-1.2.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Untitled/Dipak/Flutter/demo/biometric_authentication_flutter/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/skywave-mac/.gradle/caches/transforms-2/files-2.1/062c584e7105f32bea72d749c12db8a1/appcompat-1.2.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Volumes/Untitled/Dipak/Flutter/demo/biometric_authentication_flutter/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/skywave-mac/.gradle/caches/transforms-2/files-2.1/062c584e7105f32bea72d749c12db8a1/appcompat-1.2.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Volumes/Untitled/Dipak/Flutter/demo/biometric_authentication_flutter/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/skywave-mac/.gradle/caches/transforms-2/files-2.1/062c584e7105f32bea72d749c12db8a1/appcompat-1.2.0/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]
